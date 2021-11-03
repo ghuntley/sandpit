@@ -1,4 +1,4 @@
 tasks:
   - command: >
       #code ${GITPOD_REPO_ROOT}/README.md
-      gp open ${GITPOD_REPO_ROOT}/README.md
+      gp open README.md
